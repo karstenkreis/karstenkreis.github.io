@@ -2,10 +2,11 @@
 body {
     font-family: 'Inter', sans-serif;
     color: #071013;
+    background-color: #19181a;
 }
 
 a {
-    color: #8C1515;
+    color: #248bad;
 }
 
 a:hover {
@@ -48,11 +49,23 @@ h2 code {
 }
 
 .main_color  {
-    color: #8C1515;
+    color: #ad2424;
 }
 
 .secondary_color {
     color: #071013;
+}
+
+.link_color {
+    color: #248bad;
+}
+
+.text_color {
+    color: #cccccc;
+}
+
+.highlight_color {
+    color: #ad2424;
 }
 
 .email_color {
@@ -150,7 +163,7 @@ h2 code {
 
 .publication .section-1 .publication-extra {
     font-family: 'Ubuntu Mono', serif;
-    color: #8C1515;
+    /*color: #8C1515;*/
 }
 
 .publication .section-2 {
@@ -181,8 +194,8 @@ h2 code {
     transition-timing-function: ease-in-out;
 
     border-radius: 10%;
-    background-color: #d64933;
-    color: white;
+    background-color: #248bad;
+    color: #cccccc;
 }
 
 .publication .separator {
@@ -208,8 +221,8 @@ h2 code {
     transition-timing-function: ease-in-out;
 
     border-radius: 10%;
-    background-color: #d64933;
-    color: white;
+    background-color: #248bad;
+    color: #cccccc;
 }
 
 
@@ -318,8 +331,8 @@ h2 code {
     transition-timing-function: ease-in-out;
 
     border-radius: 10%;
-    background-color: #d64933;
-    color: white;
+    background-color: #248bad;
+    color: #cccccc;
 }
 
 .thesis .separator {
@@ -362,8 +375,8 @@ h2 code {
     transition-timing-function: ease-in-out;
 
     border-radius: 10%;
-    background-color: #d64933;
-    color: white;
+    background-color: #248bad;
+    color: #cccccc;
 }
 
 .award .separator {
@@ -406,8 +419,8 @@ h2 code {
     transition-timing-function: ease-in-out;
 
     border-radius: 10%;
-    background-color: #d64933;
-    color: white;
+    background-color: #248bad;
+    color: #cccccc;
 }
 
 .misc .separator {
