@@ -1,6 +1,7 @@
 
 body {
-    font-family: 'Merriweather', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
     color: #071013;
     background-color: #19181a;
 }
@@ -154,15 +155,15 @@ h2 code {
 }
 
 .publication .section-1 .publication-date {
-    font-family: 'Dejavu Sans', sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .publication .section-1 .publication-name {
-    font-family: 'Dejavu Sans', sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .publication .section-1 .publication-extra {
-    font-family: 'Dejavu Sans', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     /*color: #8C1515;*/
 }
 
@@ -300,11 +301,11 @@ h2 code {
 }
 
 .thesis .section-1 .thesis-date {
-    font-family: 'Dejavu Sans', sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .thesis .section-1 .thesis-name {
-    font-family: 'Dejavu Sans', sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
 
 
@@ -388,24 +389,23 @@ h2 code {
 }
 
 .misc .section-1 .misc-date {
-    font-family: 'Ubuntu Mono', serif;
+    font-family: 'Avenir', sans-serif;
 }
 
 .misc .section-1 .misc-name {
-    font-family: 'Ubuntu Mono', serif;
+    font-family: 'Avenir', sans-serif;
 }
 
 
 .misc .section-2 {
-    font-family: 'Ubuntu Mono', serif;
-    margin-top: -.0%;
-    /*margin-bottom: .5%;*/
+    font-family: 'Avenir', sans-serif;
+    /*margin-top: 0.05%;*/
 }
 
 
 .misc .section-3 {
     margin-top: -.0%;
-    font-family: 'Ubuntu Mono', serif;
+    font-family: 'Avenir', sans-serif;
     text-decoration: none;
 }
 
